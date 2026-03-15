@@ -36,19 +36,19 @@
 
 ### Dashboard — 知识库全局视图
 
-![Dashboard](https://raw.githubusercontent.com/Ddddd917/doc-ingestion-tool/main/docs/screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 
 ### AI 洞察 — LLM驱动的个人分析
 
-![AI洞察](https://raw.githubusercontent.com/Ddddd917/doc-ingestion-tool/main/docs/screenshots/ai_insights.png)
+![AI洞察](screenshots/ai_insights.png)
 
 ### 上传与分析 — 文档入库核心流程
 
-![上传分析](https://raw.githubusercontent.com/Ddddd917/doc-ingestion-tool/main/docs/screenshots/upload.png)
+![上传分析](screenshots/upload.png)
 
 ### 知识域页面 — 按领域浏览与管理
 
-![知识域](https://raw.githubusercontent.com/Ddddd917/doc-ingestion-tool/main/docs/screenshots/domain_page.png)
+![知识域](screenshots/domain_page.png)
 
 ---
 
@@ -133,9 +133,7 @@ doc-ingestion-tool/
 │   ├── memory_manager.py       # AI洞察与Memory
 │   ├── domain_page.py          # 知识域通用页面
 │   └── exporter.py             # 导出引擎
-├── docs/
-│   ├── PRD.md                  # 产品需求文档
-│   └── screenshots/            # 截图
+├── screenshots/                # 界面截图
 ├── requirements.txt
 ├── .env.example
 └── .gitignore
