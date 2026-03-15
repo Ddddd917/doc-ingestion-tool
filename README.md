@@ -36,19 +36,19 @@
 
 ### Dashboard — 知识库全局视图
 
-![Dashboard](docs/screenshots/dashboard.png)
+![Dashboard](https://raw.githubusercontent.com/Ddddd917/doc-ingestion-tool/main/docs/screenshots/dashboard.png)
 
 ### AI 洞察 — LLM驱动的个人分析
 
-![AI洞察](docs/screenshots/ai_insights.png)
+![AI洞察](https://raw.githubusercontent.com/Ddddd917/doc-ingestion-tool/main/docs/screenshots/ai_insights.png)
 
 ### 上传与分析 — 文档入库核心流程
 
-![上传分析](docs/screenshots/upload.png)
+![上传分析](https://raw.githubusercontent.com/Ddddd917/doc-ingestion-tool/main/docs/screenshots/upload.png)
 
 ### 知识域页面 — 按领域浏览与管理
 
-![知识域](docs/screenshots/domain_page.png)
+![知识域](https://raw.githubusercontent.com/Ddddd917/doc-ingestion-tool/main/docs/screenshots/domain_page.png)
 
 ---
 
