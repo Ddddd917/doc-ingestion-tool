@@ -1,0 +1,5 @@
+streamlit
+zhipuai
+pypdf
+python-dotenv
+pandas
